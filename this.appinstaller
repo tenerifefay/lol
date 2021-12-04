@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="https://github.com/tenerifefay/lol/raw/main/sample.appxbundle/this.appinstaller"
+              Version="1.1.1.1"
+              xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+
+  <MainBundle Name="Fuck Nigger"
+              Version="1.4.8.8"
+              Publisher="CN=Contoso"
+              Uri="https://github.com/tenerifefay/lol/raw/main/sample.appxbundle"/>
+
+
+</AppInstaller>
